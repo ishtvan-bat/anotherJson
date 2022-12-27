@@ -1,15 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "say"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"computer_application_usage":[]}
